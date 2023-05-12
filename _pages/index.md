@@ -10,7 +10,8 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+
+![](https://github.com/shing4512/GHPages_WebSite/blob/main/assets/images/bass.jpg)
 
 
 ---
