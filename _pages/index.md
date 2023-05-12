@@ -13,7 +13,7 @@ permalink: /
 
 
 ![](https://github.com/shing4512/GHPages_WebSite/blob/main/assets/images/bass.jpg)
-[リンク](
+[リンク](https://fujigen.shop/products/detail.php?product_id=2022)
 
 
 ---
